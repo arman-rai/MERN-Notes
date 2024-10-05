@@ -1,3 +1,5 @@
+### Above code is for a rpsGame using basic web tech using <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8">FCC.org</a>
+
 ### **Key Points for Revision**
 
 - **Frontend vs. Backend:** Understand the distinction and interaction between them.
